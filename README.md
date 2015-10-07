@@ -3,7 +3,7 @@ An experimental single page application using websocket.
 
 A responsive SPA using only HTML, CSS, Javascript or JQuery in the front-end.
 
-As usual we will evaluate it using CRUD operations in the back-end connecting to SQL Express server
+As usual we will evaluate it using CRUD operations in the back-end connecting to SQL Express Server
 using Entity Framework Code-First Approach and a NodeJS MongoDB.
 
 Without REST API to map our CRUD operations with HTTP methods,
