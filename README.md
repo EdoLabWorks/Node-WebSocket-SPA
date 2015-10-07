@@ -10,6 +10,6 @@ Without REST API to map our CRUD operations with HTTP methods,
 we will move our data from the front-end to our back-end endpoints using
 a simple header and payload JSON data packet.
 Packet communication is prevalent in the lower phyical layer in any
-computer networking among them is the internet.
+computer and wireless networking among them is the internet, wifi and LTE.
 
 
