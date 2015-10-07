@@ -11,6 +11,6 @@ we will move our data from the front-end to our back-end endpoints using
 a simple header and payload JSON data packets.
 
 Packet communication is prevalent in the lower phyical layer in any
-computer and wireless networking among them is the internet, wifi and LTE.
+computer and wireless networking among them - the internet, wifi and LTE.
 
 
