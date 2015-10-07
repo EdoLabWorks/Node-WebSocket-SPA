@@ -7,8 +7,8 @@ As usual we will evaluate it using CRUD operations in the back-end connecting to
 using Entity Framework Code-First Approach and a NodeJS MongoDB.
 
 Without REST API to map our CRUD operations with HTTP methods,
-we will move our data back and forth between our front-end and back-end endpoints using
-a simple header and payload JSON data packets.
+we will move our data back and forth using a simple header and payload JSON data packets
+between our front-end and back-end endpoints.
 
 Packet communication is prevalent in the lower phyical layer in any
 computer and wireless networking among them - the internet, wifi and LTE.
