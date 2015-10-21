@@ -1,8 +1,7 @@
 # NodeJS-Websocket-SPA
 An experimental single page application using websocket.
 
-We will evaluate its performance using CRUD operations connecting to SQL Express Server
-using Entity Framework and a NodeJS MongoDB database.
+We will evaluate its performance using MongoDB for simple CRUD operations.
 
 ![](https://github.com/EdoLabWorks/ximgs/blob/master/WebSocketSPA.png)
 
